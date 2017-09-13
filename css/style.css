@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body{
+    background: #ffb7b5;
+}
+
+h1{
+    font-family: "Helvetica Neue";
+    font-weight: 500;
+    font-size: 400%;
+    text-align: center;
+    color: #ffff;
+
+}
+
+h2{
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 200%;
+    text-align: center;
+    color: mediumpurple;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    width: 100%;
+
+}
+
+div.VELKOMMEN{
+    border:4px solid white;
+    border-radius: 13px;
+    max-width: 300px;
+    margin:auto;
+
+}
+
+div.VELKOMMEN:hover {
+    border: 4px solid mediumpurple;
+
+}
+
+
